@@ -1,0 +1,91 @@
+Year,Category,Event Name,Date,Venue/Location
+2015,Cultural & Social,Republic Day Flower Show,2015-01-26,Lalbagh Botanical Garden
+2015,Cultural & Social,Bangalore Karaga,2015-04-04,Dharmaraya Swamy Temple
+2015,Cultural & Social,Independence Day Flower Show,2015-08-15,Lalbagh Botanical Garden
+2015,Cultural & Social,Bangalore Ganesh Utsava,2015-09-17,APS College Grounds
+2015,Cultural & Social,Namma Bengaluru Awards,2015-11-07,Town Hall
+2015,Cultural & Social,Bangalore Literature Festival,2015-12-05,Royal Orchid Central
+2015,Cultural & Social,Bangalore Pride & Queer Habba,2015-11-22,Tulasi Park to Town Hall
+2015,Cultural & Social,Kadalekai Parishe,2015-12-07,Basavanagudi
+2015,Cultural & Social,Under the Raintree Women's Fest,2015-11-14,Max Mueller Bhavan
+2015,Cultural & Social,Avarekai Mela,2015-01-15,Sajjan Rao Circle
+2015,Tech & Business,Aero India 2015,2015-02-18,Yelahanka Air Force Station
+2015,Tech & Business,India Electronics Week,2015-01-27,BIEC
+2015,Tech & Business,MobiSparks,2015-03-21,YourStory HQ
+2015,Tech & Business,RootConf,2015-05-15,NIMHANS Convention Centre
+2015,Tech & Business,Social Media Week (SMW),2015-06-08,Multiple Venues
+2015,Tech & Business,TiECon Bangalore,2015-07-10,ITC Gardenia
+2015,Tech & Business,NASSCOM Product Conclave,2015-10-13,Vivanta by Taj
+2015,Tech & Business,IoT Next,2015-11-09,Hotel Crowne Plaza
+2015,Tech & Business,Bangalore ITE.biz,2015-11-18,Bengaluru Main Palace
+2015,Tech & Business,Grace Hopper Celebration India,2015-12-02,BIEC
+2015,Music & Arts,Alt-J Live,2015-05-21,Ezone
+2015,Music & Arts,Bangalore Open Air,2015-06-06,CounterCulture
+2015,Music & Arts,Skrillex India Tour,2015-10-08,Supernova Arena
+2015,Music & Arts,Poets of the Fall,2015-10-15,Hard Rock Cafe/Manpho
+2015,Music & Arts,Slash ft. Myles Kennedy,2015-11-14,Manpho Convention Centre
+2015,Music & Arts,Farhan Live,2015-11-21,Phoenix Marketcity
+2015,Music & Arts,Sunburn Arena: Dash Berlin,2015-11-27,Embassy International Riding School
+2015,Music & Arts,NH7 Weekender,2015-12-05,Embassy International Riding School
+2015,Music & Arts,Shree Ramaseva Mandali Concerts,2015-03-28,Fort High School Ground
+2015,Music & Arts,Bengaluru Ganesh Utsava Concerts,2015-09-20,APS College Grounds
+2016,Cultural & Social,Chitra Santhe,2016-01-03,Kumara Krupa Road
+2016,Cultural & Social,Bengaluru Intl Film Festival,2016-01-28,PVR Cinemas/Various
+2016,Cultural & Social,Republic Day Flower Show,2016-01-26,Lalbagh Botanical Garden
+2016,Cultural & Social,World Music Day,2016-06-21,Indiranagar
+2016,Cultural & Social,Independence Day Flower Show,2016-08-15,Lalbagh Botanical Garden
+2016,Cultural & Social,Bangalore Comic Con,2016-11-12,KTPO Whitefield
+2016,Cultural & Social,Bengaluru Bird Day,2016-10-08,Hebbal Lake/Multiple
+2016,Cultural & Social,Bangalore Pride,2016-11-20,Samsara to Town Hall
+2016,Cultural & Social,Karnataka Rajyotsava,2016-11-01,Kanteerava Stadium
+2016,Cultural & Social,Kadalekai Parishe,2016-11-28,Basavanagudi
+2016,Tech & Business,Invest Karnataka,2016-02-03,BIEC
+2016,Tech & Business,Surge 2016,2016-02-23,BIEC
+2016,Tech & Business,UnPluggd,2016-05-06,Park Plaza
+2016,Tech & Business,JSFoo,2016-09-15,NIMHANS Convention Centre
+2016,Tech & Business,IEEE SmartTech,2016-09-23,Sheraton Grand
+2016,Tech & Business,HasGeek Anthill (AI),2016-10-01,The Gateway Hotel
+2016,Tech & Business,NASSCOM Game Developer Conf,2016-11-10,NIMHANS Convention Centre
+2016,Tech & Business,Droidcon India,2016-11-10,MLR Convention Centre
+2016,Tech & Business,Bengaluru Tech Summit,2016-11-17,Bengaluru Palace
+2016,Tech & Business,Startup Expo,2016-12-15,KTPO Whitefield
+2016,Music & Arts,Tiesto Live,2016-01-30,Embassy International Riding School
+2016,Music & Arts,Yanni Live,2016-01-22,Emirates Rolling Hills
+2016,Music & Arts,Sunidhi Chauhan Live,2016-02-14,Bhartiya City
+2016,Music & Arts,Stephan Bodzin,2016-05-20,The Humming Tree
+2016,Music & Arts,Bangalore Open Air,2016-07-09,Royal Orchid Resort
+2016,Music & Arts,Storm Festival,2016-01-23,Windsflower Resort
+2016,Music & Arts,Arijit Singh Symphony,2016-10-23,Bhartiya City
+2016,Music & Arts,Nucleya Raja Baja Launch,2016-11-05,Multiple Venues
+2016,Music & Arts,Echoes of Earth,2016-11-26,Embassy International Riding School
+2016,Music & Arts,Bacardi EVC Bangalore,2016-12-17,Manpho Convention Centre
+2017,Cultural & Social,Pravasi Bharatiya Divas,2017-01-07,BIEC
+2017,Cultural & Social,Chitra Santhe,2017-01-15,Kumara Krupa Road
+2017,Cultural & Social,Republic Day Flower Show,2017-01-26,Lalbagh Botanical Garden
+2017,Cultural & Social,Bengaluru Poetry Festival,2017-08-05,Leela Palace
+2017,Cultural & Social,Bengaluru Pather (Theatre),2017-09-10,Cubbon Park
+2017,Cultural & Social,Bangalore Literature Festival,2017-10-28,Crowne Plaza
+2017,Cultural & Social,Ugadi Feasts,2017-03-29,Across Bangalore
+2017,Cultural & Social,Namma Bengaluru Habba,2017-12-24,Vidhana Soudha
+2017,Cultural & Social,Christmas Cake Show,2017-12-15,St. Joseph's Indian High School
+2017,Cultural & Social,Kadalekai Parishe,2017-11-13,Basavanagudi
+2017,Tech & Business,Aero India 2017,2017-02-14,Yelahanka Air Force Station
+2017,Tech & Business,The Fifth Elephant,2017-07-27,NIMHANS Convention Centre
+2017,Tech & Business,ReactFoo,2017-04-07,MLR Convention Centre
+2017,Tech & Business,InnoFest,2017-08-26,Indian Institute of Science
+2017,Tech & Business,NASSCOM HR Summit,2017-07-20,ITC Gardenia
+2017,Tech & Business,Cypher 2017 (AI),2017-09-21,Hotel Crowne Plaza
+2017,Tech & Business,TechSparks,2017-09-22,Vivanta by Taj
+2017,Tech & Business,Google Cloud Summit,2017-10-10,BIEC
+2017,Tech & Business,Bengaluru Tech Summit,2017-11-16,Bengaluru Palace
+2017,Tech & Business,TiE Women Global,2017-12-05,The Leela Palace
+2017,Music & Arts,Dream Theater,2017-01-30,Phoenix Marketcity
+2017,Music & Arts,Anoushka Shankar,2017-01-20,Phoenix Marketcity
+2017,Music & Arts,Ramanavami Music Festival,2017-04-05,Fort High School Ground
+2017,Music & Arts,Bangalore Open Air,2017-07-01,Royal Orchid Resort
+2017,Music & Arts,Lucky Ali Live,2017-08-12,Phoenix Marketcity
+2017,Music & Arts,The Raghu Dixit Project,2017-12-24,Vidhana Soudha
+2017,Music & Arts,NH7 Weekender,2017-12-02,Embassy International Riding School
+2017,Music & Arts,Sunburn Arena: Kygo,2017-12-09,Prestige Srihari Khoday Centre
+2017,Music & Arts,Echoes of Earth,2017-11-18,Embassy International Riding School
+2017,Music & Arts,Steve Vai Live,2017-12-03,Embassy International Riding School
